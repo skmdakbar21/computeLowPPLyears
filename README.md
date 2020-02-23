@@ -3,7 +3,7 @@ a Java class to listdown years, whch has low population compared to preceding ye
 
 Instructions to run program:
 1. Clone repo.
-``git clone ``
+``git clone git@github.com:skmdakbar21/computeLowPPLyears.git``
 
 2. Make sure you have Java version >=1.8 installed.
 
@@ -13,5 +13,6 @@ Instructions to run program:
 Output will be printed on console with list of low population years.
 
 Acceptance Tests with below combination of birth & death years.
-1) input the birth & death year combinations with same births and deaths count in two successive years
-2) invalid input data
+1) Input of birth & death years with a list of 15-20 life spans.
+2) input the birth & death year combinations with same births and deaths count in two successive years
+3) invalid input data
